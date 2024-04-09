@@ -19,3 +19,6 @@ RGB_MATRIX_ENABLE = yes     # Enable keyboard RGB matrix functionality
 SPLIT_KEYBOARD = yes
 
 SERIAL_DRIVER = vendor
+TAP_DANCE_ENABLE = no
+VIA_ENABLE = yes
+COMBO_ENABLE = yes
