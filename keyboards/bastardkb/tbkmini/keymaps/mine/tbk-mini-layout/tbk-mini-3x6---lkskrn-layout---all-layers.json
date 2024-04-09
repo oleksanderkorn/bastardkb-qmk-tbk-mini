@@ -1,0 +1,371 @@
+[
+  {
+    "name": "TBK Mini 3x6 - lkskrn layout - all layers",
+    "author": "https://github.com/oleksanderkorn",
+    "notes": "Modified Bastardkb TBK Mini layout based on markstos corne layout(https://mark.stosberg.com/markstos-corne-3x5-1-keyboard-layout/)",
+    "plate": false,
+    "keyboard-layout-editor": "http://www.keyboard-layout-editor.com/#/gists/adfa7c3cd8f0c6d3a7b9155c6eab1748#file-corne-crkbd_c0psrul3-default-json",
+    "qmk-config": "https://config.qmk.fm/#/crkbd/rev1/LAYOUT",
+    "pcb": true
+  },
+  [
+    {
+      "x": 3,
+      "t": "#000000\n#0000FF\n#008000\n#ff0000"
+    },
+    "E\n_\n#\nF3",
+    {
+      "x": 2.25,
+      "t": "#000000\n#008000\n\n#ff0000\n\n\n\n\n\n\n#0000FF",
+      "w": 2.5,
+      "h": 3,
+      "d": true
+    },
+    "<i>Optional Combo</I><br> JK → Esc<br>  <br> Tap OSMs 3x to lock,<br> tap again to disable.<br>\nLower<br><br><br><br>\n\nFunc<br><br><br><br>\n\n\n\n\n\n<br><br>Layers:\nRaise<br><br><br><br>",
+    {
+      "x": 2.25,
+      "t": "#000000\n\n#008000\n#ff0000\n\n\n#0000FF",
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "I\n\n*\nF8\n\n\nMoveRight"
+  ],
+  [
+    {
+      "y": -0.9,
+      "x": 2,
+      "t": "#000000\n\n#008000\n#ff0000"
+    },
+    "W\n\n@\nF2"
+  ],
+  [
+    {
+      "y": -1,
+      "x": 4,
+      "t": "#000000\n#0000FF\n#008000\n#ff0000"
+    },
+    "R\n+\n$\nF4",
+    {
+      "x": 5,
+      "t": "#000000\n\n#008000\n#ff0000\n\n\n#0000FF"
+    },
+    "U\n\n&\nF7\n\n\nMaximize",
+    {
+      "x": 1,
+      "t": "#000000\n#0000FF\n#008000\n#ff0000"
+    },
+    "O\n\\\n(\nF9"
+  ],
+  [
+    {
+      "y": -0.9,
+      "x": 5,
+      "f2": 1
+    },
+    "T\nPgUp\n%\nF5",
+    {
+      "x": 3,
+      "t": "#000000\n\n#008000\n#ff0000\n\n\n#0000FF",
+      "fa": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ]
+    },
+    "Y\n\n^\nF6\n\n\nMoveLeft"
+  ],
+  [
+    {
+      "y": -0.9,
+      "t": "#000000"
+    },
+    "Tab",
+    {
+      "x": 13
+    },
+    "Bksp"
+  ],
+  [
+    {
+      "y": -1,
+      "x": 1,
+      "t": "#000000\n#0000FF\n#008000\n#ff0000",
+      "f": 3
+    },
+    "Q\nDel\n!\nF1",
+    {
+      "x": 11,
+      "f": 3
+    },
+    "P\n|\n)\nF10"
+  ],
+  [
+    {
+      "y": -0.30000000000000004,
+      "x": 3,
+      "t": "#000000\n#ff0000\n#008000\n\n\n\n#0000FF",
+      "f2": 1
+    },
+    "D\nRGB Tog\n3\n\n\n\n-",
+    {
+      "x": 7,
+      "t": "#000000\n#0000FF\n#008000",
+      "f": 3
+    },
+    "K\n▲\n8"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 2,
+      "t": "#000000\n#0000FF\n#008000\n#ff0000",
+      "fa": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "S\nEnd\n2\nF12",
+    {
+      "x": 1,
+      "t": "#000000\n#ff0000\n#008000\n\n\n\n#0000FF"
+    },
+    "F\nRGB Mod\n4\n\n\n\n=",
+    {
+      "x": 5,
+      "t": "#000000\n#0000FF\n#008000",
+      "f": 3
+    },
+    "J\n▼\n7",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "L\n▶\n9"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 5,
+      "f2": 1
+    },
+    "G\nPgDn\n5",
+    {
+      "x": 3,
+      "f": 3
+    },
+    "H\n◀\n6"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "c": "#b9b0ff",
+      "t": "#000000"
+    },
+    "Alt",
+    {
+      "c": "#cccccc",
+      "t": "#000000\n#0000FF\n#008000\n#ff0000",
+      "fa": [
+        0,
+        1,
+        0,
+        1
+      ]
+    },
+    "A\nHome\n1\nF11",
+    {
+      "x": 11,
+      "t": "#000000\n#0000FF\n#008000",
+      "f": 3
+    },
+    "'\n≣\n0",
+    {
+      "c": "#b9b0ff",
+      "t": "#000000"
+    },
+    "Esc"
+  ],
+  [
+    {
+      "y": -0.2999999999999998,
+      "x": 3,
+      "c": "#cccccc",
+      "t": "#000000\n#ff0000\n#008000\n\n\n\n#0000FF"
+    },
+    "C\nPrintScr2\n`\n\n\n\nCopy",
+    {
+      "x": 7,
+      "t": "#000000\n#0000FF",
+      "f": 3
+    },
+    "<<br>,\n⏭"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 2,
+      "t": "#000000\n#ff0000\n#008000\n\n\n\n#0000FF"
+    },
+    "X\nPrintScr1\n~\n\n\n\n>",
+    {
+      "x": 1
+    },
+    "V\nPrintScr3\n[\n\n\n\nPaste",
+    {
+      "x": 5,
+      "t": "#000000\n#0000FF\n#008000",
+      "f": 3
+    },
+    "M\n⏮\n]",
+    {
+      "x": 1,
+      "t": "#000000\n#0000FF",
+      "f": 3
+    },
+    "><br>.\n🔉"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "x": 5,
+      "t": "#000000\n#ff0000\n#008000\n\n\n\n#0000FF\n\n\n#0000FF"
+    },
+    "B\nPrintScr3\n{\n\n\n\n;\n\n\n:",
+    {
+      "x": 3,
+      "t": "#000000\n#0000FF\n#008000",
+      "f": 3
+    },
+    "N\n⏯\n}"
+  ],
+  [
+    {
+      "y": -0.8999999999999999,
+      "c": "#b9b0ff",
+      "t": "#000000"
+    },
+    "Shift",
+    {
+      "c": "#cccccc",
+      "t": "#000000\nblue\n\n#ff0000",
+      "f": 3
+    },
+    "Z\n<\n\nCaps",
+    {
+      "x": 11,
+      "t": "#000000\n#0000FF\n\n#ff0000",
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "?<br>/\n🔊\n\nReset",
+    {
+      "c": "#b9b0ff",
+      "t": "red"
+    },
+    "Func"
+  ],
+  [
+    {
+      "y": -0.20000000000000018,
+      "x": 3.5,
+      "t": "#000000\n#ff0000\n\n\n\n\n#0000FF"
+    },
+    "Ctrl\nEsc\n\n\n\n\nEsc",
+    {
+      "x": 6,
+      "t": "#000000\n\n#008000"
+    },
+    "Shift\n\n:"
+  ],
+  [
+    {
+      "y": -0.09999999999999964,
+      "c": "#cccccc",
+      "t": "#000000",
+      "w": 12,
+      "d": true
+    },
+    "lkskrn 3x6\n<tt>",
+    {
+      "x": -1,
+      "f": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "w": 4,
+      "d": true
+    },
+    "\n\nLayer Reference\nColored Mods are One-Shot"
+  ],
+  [
+    {
+      "r": 15,
+      "rx": 4.5,
+      "ry": 4.1,
+      "y": -1,
+      "t": "#000000\n#ff0000",
+      "a": 0,
+      "f": 3,
+      "f2": 1
+    },
+    "Enter\nCmdEnter\n\n\nSuper"
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 5.4,
+      "ry": 4.3,
+      "y": -1,
+      "x": 0.09999999999999964,
+      "t": "#000000\n#ff0000\n\n\ngreen",
+      "f": 3
+    },
+    "Tab\nEnter\n\n\nLower"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 9.6,
+      "y": -1,
+      "x": -1.0999999999999996,
+      "t": "#000000\n\n\n\n#0000FF",
+      "f": 3
+    },
+    "Del\n\n\n\nRaise"
+  ],
+  [
+    {
+      "r": -15,
+      "rx": 10.5,
+      "ry": 4.1,
+      "y": -1,
+      "x": -1,
+      "t": "#000000",
+      "a": 4,
+      "fa": [
+        1
+      ]
+    },
+    "Space"
+  ]
+]
