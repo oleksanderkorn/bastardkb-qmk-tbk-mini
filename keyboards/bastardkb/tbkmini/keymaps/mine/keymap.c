@@ -49,9 +49,9 @@ combo_t key_combos[] = {
 #define OS_LANG  LCTL(KC_SPC) // Ctrl Space - change language
 
 
-#define RCT_RT   LCTL(LALT(KC_RGHT)) // rectange left side
-#define RCT_CT   LCTL(LALT(KC_ENT)) // rectange maximize windows
-#define RCT_LT   LCTL(LALT(KC_LEFT)) // rectange right side
+#define RCT_RT   LCA(KC_RGHT) // rectange right side
+#define RCT_CT   LCA(KC_ENT) // rectange maximize windows
+#define RCT_LT   LCA(KC_LEFT) // rectange left side
 
 #define SCR_PT_C LGUI(LSFT(LCTL(KC_4))) // copy part of screen to clipboard
 #define SCR_C LGUI(LSFT(LCTL(KC_3))) // copy whole screen to clipboard
